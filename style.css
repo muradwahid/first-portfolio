@@ -16,6 +16,9 @@ h1{
 h2{
     font-size: 40px;
 }
+p{
+    color: #696969;
+}
 .half-width{
     width: 50%;
     padding-left: 7%;
@@ -34,6 +37,9 @@ h2{
 }
 .orange-color{
     color: #ffa500;
+}
+.padding-btm{
+    padding-bottom: 110px;
 }
 .dream-big{
     background-image: url(images/img/dream-bg.png);
